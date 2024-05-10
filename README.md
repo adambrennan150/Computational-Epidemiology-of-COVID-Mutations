@@ -3,7 +3,9 @@
 
 
 UCD Computer Science Project (COMP30170)
+
 by Adam Brennan
+
 The main goal of this project was to create a working ASEIR model in Python and adapt it to allow for mutations to occur. With the proper adjustments made, the model should be able to implement any number of mutations of varying infection rates and be able to accurately present the resulting effects on a population. We hope to gain an understanding of what variables are most critical in the mutation of a virus as it spreads, such as the time between mutations or the chance of infection. 
 
 The notebooks are organised in run order as follows:
