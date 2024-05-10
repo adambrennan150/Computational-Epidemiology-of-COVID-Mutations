@@ -11,15 +11,19 @@ The main goal of this project was to create a working ASEIR model in Python and 
 The notebooks are organised in run order as follows:
 
 Data Preprocessing:
+
 01_COVID_Data_Preprocessing.ipynb - This file contains the code required to import the csv containing global covid statistics, as well as cleaning the data and exporting a processed csv ready for analysis. 
 
 Model:
+
 02_ASEIR_Model_&_Mutations - This file contains all code relevent to the design and use of the ASEIR Model that has been adapted for multiple mutations. It also contains some tests run to determine the functionality of the model and how the variables can affect the graphs produced.
 
 Data Comparison:
+
 03_Analysis - This file contains a series of comparisons between the real world COVID-19 Data and the values produced by the ASEIR Model designed in this project.
 
 Additional Material:
+
 04_ASEIR_Additional_Code - This file contains some steps of the ASEIR Mutations model that were not deemed relevent to the functionality but still may offer some insight into how it was designed. 
 
 
